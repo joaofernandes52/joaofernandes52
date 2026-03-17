@@ -5,8 +5,7 @@
 <br/>
 
 <p align="center">
-  <em>Focused on the intersection between <strong>software development</strong> and <strong>application security</strong>.<br/>
-  My goal is to build systems where efficiency through automation and data protection go hand in hand.</em>
+  <em>Computer Engineer passionate about <strong>web development</strong>, <strong>automation</strong>, and <strong>cybersecurity</strong>, building efficient, reliable, and secure systems.</em>
 </p>
 
 <br/>
