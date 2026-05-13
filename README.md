@@ -5,8 +5,8 @@
   <em>Computer Engineer passionate about <strong>web development</strong>, <strong>automation</strong>, and <strong>cybersecurity</strong>, building efficient, reliable, and secure systems.</em>
 </p>
 <br/>
----
-## 📬 Let's Connect
+<hr/>
+<h2>📬 Let's Connect</h2>
 <p align="center">
   <a href="https://github.com/joaofernandes52">
     <img src="https://img.shields.io/badge/GitHub-joaofernandes52-181717?style=for-the-badge&logo=github&logoColor=white" />
