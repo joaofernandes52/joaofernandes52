@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Jo%C3%A3o+Fernandes+%F0%9F%91%8B" alt="Typing SVG" />
 
 <p align="center">
-  <em>Computer Engineer.</em>
+  <em>Computer Engineer</em>
 </p>
 
 </div>
